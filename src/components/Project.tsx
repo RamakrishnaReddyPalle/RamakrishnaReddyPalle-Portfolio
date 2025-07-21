@@ -7,7 +7,7 @@ import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
+import mock09 from '../assets/images/project2.png';
 import mock10 from '../assets/images/project1.png';
 import '../assets/styles/Project.scss';
 
@@ -22,9 +22,9 @@ function Project() {
                 <p>Developed a multi-stage, LLM-powered Next-Best-Action (NBA) engine using FastAPI, SQLite, BERTopic, VADER, custom classifiers, LangChain, and LLaMA 3.2</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><h2>Conversational DB Agent</h2></a>
+                <p>Built a natural language interface for MongoDB querying and then back, using FastAPI, LangChain, and LLaMA 3.2 with memory-augmented conversations.</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
