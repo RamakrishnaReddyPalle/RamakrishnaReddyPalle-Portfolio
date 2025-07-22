@@ -6,7 +6,7 @@ import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
+import mock08 from '../assets/images/project3.png';
 import mock09 from '../assets/images/project2.png';
 import mock10 from '../assets/images/project1.png';
 import '../assets/styles/Project.scss';
@@ -24,12 +24,12 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><h2>Conversational DB Agent</h2></a>
-                <p>Built a natural language interface for MongoDB querying and then back, using FastAPI, LangChain, and LLaMA 3.2 with memory-augmented conversations.</p>
+                <p>Built a natural language interface for MongoDB querying and then back, using FastAPI, LangChain, and LLaMA 3.2 with memory-augmented conversations</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>FloorSight</h2></a>
+                <p>Developed a legend detection system for power system floorplans by fine-tuning YOLOv8 on 71 object classes with custom tiling augmentation and loss functions, deployed via Streamlit on EC2 with S3 storage</p>
             </div>
             <div className="project">
                 <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
