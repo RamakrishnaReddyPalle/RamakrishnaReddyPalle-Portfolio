@@ -27,8 +27,8 @@ function Project() {
                 <p>Built a natural language interface for MongoDB querying and then back, using FastAPI, LangChain, and LLaMA 3.2 with memory-augmented conversations</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>FloorSight</h2></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/AAB-test-app.git" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/AAB-test-app.git" target="_blank" rel="noreferrer"><h2>FloorSight</h2></a>
                 <p>Developed a legend detection system for power system floorplans by fine-tuning YOLOv8 on 71 object classes with custom tiling augmentation and loss functions, deployed via Streamlit on EC2 with S3 storage</p>
             </div>
             <div className="project">
