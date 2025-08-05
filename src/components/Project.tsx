@@ -5,7 +5,7 @@ import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
+import mock07 from '../assets/images/project4.png';
 import mock08 from '../assets/images/project3.png';
 import mock09 from '../assets/images/project2.png';
 import mock10 from '../assets/images/project1.png';
@@ -32,9 +32,9 @@ function Project() {
                 <p>Developed a legend detection system for power system floorplans by fine-tuning YOLOv8 on 71 object classes with custom tiling augmentation and loss functions, deployed via Streamlit on EC2 with S3 storage</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a href="https://github.com/RamakrishnaReddyPalle/Multi-Speaker-STT" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/Multi-Speaker-STT" target="_blank" rel="noreferrer"><h2>Echo-Split</h2></a>
+                <p>EchoSplit is my experimental, open-source pipeline designed to convert noisy, multi-speaker audio from online meetings into speaker-attributed text, enabling LLM-powered meeting assistants to generate better contextual actions, and agentic decisions.</p>
             </div>
             <div className="project">
                 <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>

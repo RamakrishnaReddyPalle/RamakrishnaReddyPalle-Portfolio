@@ -94,7 +94,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Senior Secondary Education</h3>
+            <h3 className="vertical-timeline-element-title">Secondary Education</h3>
             <h4 className="vertical-timeline-element-subtitle">Hyderabad, India</h4>
             <p>
               Spent a decade at GMR Chinmaya Vidyalaya, Hyderabad, where I grew as the School Pupil Leader, embraced discipline and values, and topped the school in 10th grade with 92.4%
