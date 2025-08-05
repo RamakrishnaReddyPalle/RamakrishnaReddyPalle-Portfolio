@@ -4,8 +4,8 @@ import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/project4.png';
+import mock06 from '../assets/images/project4.png';
+import mock07 from '../assets/images/project5.png';
 import mock08 from '../assets/images/project3.png';
 import mock09 from '../assets/images/project2.png';
 import mock10 from '../assets/images/project1.png';
@@ -17,9 +17,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/RamakrishnaReddyPalle/nba-engine" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/RamakrishnaReddyPalle/nba-engine" target="_blank" rel="noreferrer"><h2>NBA Engine</h2></a>
-                <p>Developed a multi-stage, LLM-powered Next-Best-Action (NBA) engine using FastAPI, SQLite, BERTopic, VADER, custom classifiers, LangChain, and LLaMA 3.2</p>
+                <a href="https://github.com/RamakrishnaReddyPalle/valura-financial-agent-ram" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/valura-financial-agent-ram" target="_blank" rel="noreferrer"><h2>Valura - Financial Planning Agent</h2></a>
+                <p>An interactive AI-powered chatbot that guides users through personalized financial planning, including retirement strategies, savings goals, future value estimations, and more</p>
             </div>
             <div className="project">
                 <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -27,19 +27,19 @@ function Project() {
                 <p>Built a natural language interface for MongoDB querying and then back, using FastAPI, LangChain, and LLaMA 3.2 with memory-augmented conversations</p>
             </div>
             <div className="project">
+                <a href="https://github.com/RamakrishnaReddyPalle/nba-engine" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/nba-engine" target="_blank" rel="noreferrer"><h2>NBA Engine</h2></a>
+                <p>Developed a multi-stage, LLM-powered Next-Best-Action (NBA) engine using FastAPI, SQLite, BERTopic, VADER, custom classifiers, LangChain, and LLaMA 3.2</p>
+            </div>
+            <div className="project">
                 <a href="https://github.com/RamakrishnaReddyPalle/AAB-test-app.git" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/RamakrishnaReddyPalle/AAB-test-app.git" target="_blank" rel="noreferrer"><h2>FloorSight</h2></a>
                 <p>Developed a legend detection system for power system floorplans by fine-tuning YOLOv8 on 71 object classes with custom tiling augmentation and loss functions, deployed via Streamlit on EC2 with S3 storage</p>
             </div>
             <div className="project">
-                <a href="https://github.com/RamakrishnaReddyPalle/Multi-Speaker-STT" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/Multi-Speaker-STT" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/RamakrishnaReddyPalle/Multi-Speaker-STT" target="_blank" rel="noreferrer"><h2>Echo-Split</h2></a>
                 <p>EchoSplit is my experimental, open-source pipeline designed to convert noisy, multi-speaker audio from online meetings into speaker-attributed text, enabling LLM-powered meeting assistants to generate better contextual actions, and agentic decisions.</p>
-            </div>
-            <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
             </div>
             <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
