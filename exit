@@ -1,0 +1,219 @@
+[33mafde71d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/content/projects1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mcontent/projects1[m[33m)[m 3rd project
+[33m3e922f3[m 3rd project added
+[33m5bfdbcc[m 2nd project added
+[33mafc532c[m added a project
+[33mf9516f0[m[33m ([m[1;31morigin/content/personal-history[m[33m, [m[1;32mcontent/personal-history[m[33m)[m Passing time
+[33mc2ba5d1[m  add personal history section to timeline
+[33m24ada29[m Update README.md
+[33mb6e8883[m Update README.md
+[33mb421b77[m Update package.json
+[33m6394cbe[m Initial portfolio deployment
+[33m783d301[m Update package.json
+[33m77536ad[m Fix typo in readme
+[33mf9c0cb7[m Update Main.scss
+[33mf4b6078[m Update readme
+[33ma4709be[m Update background images
+[33m93e53a2[m Add gh-pages
+[33mc44baa2[m Add typescript to the project
+[33m85525c3[m Add nav menu scrolling feature
+[33m6c96a9b[m Remove unused scss
+[33m26cbf53[m Integrate all child components in index.js
+[33mbf02832[m Revamp overall design
+[33m46383e2[m Update readme
+[33m71d7aa5[m Update readme
+[33m79c5ecd[m Hotfix in readme
+[33m03f6fea[m Fix typo in readme
+[33m5b3ed38[m Update readme
+[33m4cb762f[m Minor styling fix
+[33m14bca6c[m Clean up scss files
+[33ma673fe7[m Clean up jsx files
+[33mef1b611[m Update overall design
+[33m7547b8c[m Change the default homepage link
+[33m099468f[m Fix router bug on client side
+[33mad61249[m Make codeblock responsive on mobile
+[33m108db78[m Update root link
+[33m4877fc9[m Debug homepage url
+[33m53b5a4a[m Fix typo
+[33m947b271[m Change homepage in package.json
+[33mfff8efc[m Create LICENSE
+[33ma5de93d[m Update readme
+[33md52a5df[m Update readme
+[33m517d16b[m Update gitignore
+[33mb6f3b13[m Add react-vertical-timeline-component
+[33m173bde6[m Make container responsive on mobile
+[33me3bf0dc[m Update hero section
+[33m4e19f9f[m Add react-code-blocks
+[33m3b02eac[m Rename header to hero
+[33m664b08c[m Update build
+[33m223f10f[m Replace image links with relative ones
+[33m5032c98[m Add react-type-animation
+[33m0d400bf[m Update contents
+[33m536e5a9[m Clean up css
+[33m3240c08[m Fix dependencies
+[33m0e611e2[m Fix dependencies
+[33m2ab0ed4[m Upgrade css to scss
+[33m051c014[m Update readme
+[33m13f9c38[m Add build
+[33m9a03f56[m Remove CNAME
+[33m9400952[m Add build
+[33mbca503c[m Fix grammar error
+[33m7000e4b[m Add build
+[33mf6a81b2[m Update contents on the home page
+[33m7a9c5fe[m Replace images
+[33m50acee8[m Fix readme
+[33me832ece[m Add build
+[33m02b9278[m Fix zindex of nav menu
+[33m88ac3dd[m Update readme
+[33m7e5d885[m Add build
+[33m4c93c6e[m Remove unused css properties
+[33mf3a5258[m Add a responsive hamburger menu
+[33m46141d7[m Remove use effects and white spaces
+[33mb4baaee[m Fix padding issue
+[33mb5c3ccd[m Add build
+[33m9cf0161[m Convert cases to blog component
+[33m74b2d31[m Remove unsed link from contact
+[33m0810ef8[m Update fontawesome with npm
+[33m71cae58[m Add build
+[33m997cd02[m Remove button from App.js
+[33me6fdb4e[m Update readme
+[33mf8b6d88[m Add build
+[33md9e7100[m Update readme
+[33m125c173[m Add video to about component
+[33m25437af[m Add build
+[33me609fe3[m Update readme
+[33m4db855d[m Add build
+[33m5c3e973[m Update about and case components
+[33maaf01e6[m Fix grammer in texts
+[33m78da05b[m Update about component
+[33m7bcbd96[m Add content to the case study component
+[33mf82a379[m Add slug to Case.jsx
+[33m50889fa[m Update about and contact pages
+[33m9eff417[m Update nav-bar
+[33m2b5e730[m Add build
+[33maa348e3[m Add react-router-dom
+[33m1d337bb[m Add button to about component
+[33ma62616a[m Update readme and few contents
+[33m452ecbf[m Add build
+[33m4def68a[m Add a new project
+[33mb010bde[m Add alt values to images
+[33mc40ee35[m Remove unused classes
+[33md667f22[m Add chip component to array of elements
+[33mf745584[m Restyle App.js
+[33mda4d6e6[m Add build
+[33m183124f[m Resize image in the about section
+[33m9e8ba8f[m Update skills and projects sections
+[33m997336a[m Reformat css files
+[33mab716a3[m Update about, skill, and project components
+[33m1291f2f[m Update readme
+[33mcbe5f4e[m Remove elements from contact component
+[33m840dd01[m Update information to be current
+[33m16c31ac[m Show domain from css to avoid scam emails
+[33mf79c8c6[m Bug fix
+[33m3b99061[m Minor bug fix
+[33mf082808[m Update build
+[33m374c089[m Add media queries to css
+[33m7871b85[m Add build
+[33m2844645[m Update contents on skills component
+[33m621a69b[m npm deploy
+[33med73e4b[m Change the link on contact section
+[33m74dacba[m Run npm run deploy
+[33maa05f4b[m Fix typo
+[33meceaee4[m Add build
+[33m9cc1fae[m Add more items to project component
+[33mb46a18e[m Change padding for mobile view
+[33mba34880[m Run npm deploy
+[33mb75bab7[m Make about componet responsive
+[33m030f413[m REvise texts in project section
+[33me0a6e11[m Add fade-in to project section
+[33m5ef9b2d[m Modify contact component
+[33m24551aa[m Replace images on project component
+[33m0bbf38d[m Change favicon
+[33m2dfe7e6[m Add fadein to skill component
+[33mff05f14[m Add readme
+[33m3e991d5[m Fix minor grid issue
+[33m08fe690[m Fix minor grid issue
+[33m8e86d1c[m Create CNAME
+[33mca58f4c[m Delete CNAME
+[33mdf90296[m Create CNAME
+[33mec13e57[m RERemove readme
+[33m5a8ed89[m Bug fix
+[33m601ca6b[m Adjust component width for responsive view
+[33m7362168[m Create CNAME
+[33mfe5735f[m Change title tag of the site
+[33mbb97105[m Update about and skills sections
+[33mda38fae[m Re-organize directory
+[33m55113ed[m add grid-wrapper to work section
+[33m3b857bb[m change overall design
+[33ma917167[m upgrade yarn dependencies
+[33ma5d15fa[m update npm
+[33mabe45e1[m add contents to project.js
+[33m04305f3[m make fade-in effect run only once
+[33m1e58cfe[m add fadein as scroll feature
+[33mbcae75d[m optimize meta tags for seo
+[33m5709ca9[m add border to skills section
+[33me2d2e47[m add momo element at the bottom
+[33m4a9deb0[m correct indentation and ul list scale
+[33m7c0ff57[m organize directory
+[33m187e7db[m update icons
+[33m980eff0[m add fontawesome icons
+[33ma24f7d3[m update style of skills section
+[33m50eee6c[m update specialties section
+[33m51ba541[m add flipcard
+[33mc0acb79[m update package.json
+[33m19d8fa7[m configure gh-pages
+[33m0c80d02[m switch project to react
+[33m5c6320b[m adjust image size
+[33mc2a62ce[m organize directory
+[33m8470778[m minor grammar fix
+[33m9fc9cc7[m delete padding-right on nav
+[33m4714920[m delete padding-right on nav
+[33m02df165[m update nav
+[33m881b16b[m change loading bar ratio
+[33me06d823[m update img
+[33mcfd0e56[m update img
+[33md640f58[m update nav padding
+[33mb49f833[m update nav padding
+[33m3f7d96e[m update nav padding
+[33mf1fb701[m modify nav
+[33m8d7f3cb[m modify nav
+[33m40d08cf[m modify nav
+[33mf93a420[m modify nav
+[33m07f3948[m modify nav
+[33m1379a54[m modify nav
+[33mc6d5f00[m modify nav
+[33m3e41766[m modify nav
+[33m9d18684[m update mobile
+[33mf903c48[m update mobile
+[33m90fa6c0[m update mobile design
+[33m8730f72[m add responsible design
+[33m257d447[m add progress bar
+[33mc3febfb[m change padding
+[33m3f226aa[m add load spinner
+[33m52c19fb[m modify skills section
+[33mfe8e448[m update path
+[33m2b0d3a0[m test
+[33m0d784a2[m fix url
+[33mb72f961[m Delete .DS_Store
+[33md636b57[m add .gitignore
+[33m19db3e5[m organize directory
+[33mc892852[m update footer
+[33m0f99fcc[m delete old files
+[33mc1d5b06[m Create CNAME
+[33ma7a0c2e[m add favicon and logo
+[33m80ba584[m modify design
+[33m91e0e6a[m use css grid
+[33mbfe4dae[m minor fix
+[33m55c5e37[m update of gallery
+[33mf972512[m final test
+[33m11eef2a[m test4
+[33mcdda67f[m test3
+[33m21bc2f5[m 80%
+[33mabbd84b[m test2
+[33mdec352f[m test
+[33ma8dee72[m Update contents.css
+[33m56742a8[m resizeimage
+[33mf6796b6[m viewport
+[33m9ffc4ad[m implemented media queries
+[33mb0ff5d3[m media queries test3
+[33m4e60eb9[m media queries test2
+[33mb
