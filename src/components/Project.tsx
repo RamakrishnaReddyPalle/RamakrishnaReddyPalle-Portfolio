@@ -9,6 +9,8 @@ import mock07 from '../assets/images/project7.png';
 import mock08 from '../assets/images/project8.png';
 import mock09 from '../assets/images/project9.png';
 import mock10 from '../assets/images/project10.png';
+import mock11 from '../assets/images/project11.png';
+import mock12 from '../assets/images/project12.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -17,9 +19,19 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
+                <a href="https://github.com/RamakrishnaReddyPalle/diagram-intel" target="_blank" rel="noreferrer"><img src={mock12} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/diagram-intel" target="_blank" rel="noreferrer"><h2>Diagram Intel</h2></a>
+                <p>A bottom-up pipeline that turns an electrical wiring PDF into a clean, queryable, self-correcting graph using CV and VLMs, so a chatbot can answer fault-finding questions like an on-site engineer.</p>
+            </div>
+            <div className="project">
                 <a href="https://github.com/RamakrishnaReddyPalle/valura-financial-agent-ram" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/RamakrishnaReddyPalle/valura-financial-agent-ram" target="_blank" rel="noreferrer"><h2>Valura - Financial Planning Agent</h2></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/valura-financial-agent-ram" target="_blank" rel="noreferrer"><h2>Financial Planning Agent</h2></a>
                 <p>An interactive AI-powered chatbot that guides users through personalized financial planning, including retirement strategies, savings goals, future value estimations, and more</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/RamakrishnaReddyPalle/large-pdf-agent" target="_blank" rel="noreferrer"><img src={mock11} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/RamakrishnaReddyPalle/large-pdf-agent" target="_blank" rel="noreferrer"><h2>Title-17 Copilot</h2></a>
+                <p>A focused large PDF assistant. Embeddings + SFT data gen, LoRA tuned Qwen2.5-1.5B, BM25 + CE reranker retrieval, multi-LLM agent via Ollama, streaming answers with citations and a Gradio chat UI.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/RamakrishnaReddyPalle/conversationsal-db-agent" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
